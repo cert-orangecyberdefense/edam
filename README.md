@@ -9,7 +9,7 @@ Edam is written in C++ and its PDB path indicates it is called "droper_dll". It 
 
 In this cluster, the C2 were hosted on compromised WordPress infrastructure based in Ukraine and Poland. Similarly to the decoy documents, this infrastructure masqueraded as related to the 21st Gas Infrastructure Europe Annual Conference in Munich.
 
-The campaign we analyzed was also detailed by researchers from StrikeReady last week. It could be related to a Mandiant adversary known as UNC5864, which could be related to Sandworm (APT44). This operation does indeed coincide with Sandworm’s reported proclivity for using criminally sourced malware variants, as well as its longstanding interest in the European energy sector. 
+The campaign we analyzed was also detailed by researchers from StrikeReady last week. It could be related to Sandworm (APT44). This operation does indeed coincide with Sandworm’s reported proclivity for using criminally sourced malware variants, as well as its longstanding interest in the European energy sector. 
 
 Links:
 https://www.orangecyberdefense.com/global/blog/cert-news/emmenhtal-a-little-known-loader-distributing-commodity-infostealers-worldwide
